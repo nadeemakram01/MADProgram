@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.web.madprogram.PHPFragment">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PHP"
+        android:textAlignment="center"
+        android:textSize="@dimen/title_font_size" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button"
+        android:padding="20dp"
+        android:textSize="18sp"        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/php_button" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button"
+        android:padding="20dp"
+        android:textSize="18sp"        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/db_button" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button"
+        android:padding="20dp"
+        android:textSize="18sp"        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/queries_button" />
+</LinearLayout>

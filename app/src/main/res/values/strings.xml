@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MADProgram</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="html_css_version">HTML 5.0 and CSS 3.0</string>
+    <string name="html_ref_button">HTML Reference</string>
+    <string name="css_ref_button">CSS Reference</string>
+    <string name="doctype_button">Doctype Button</string>
+    <string name="javascript_button">JavaScript Quick Reference</string>
+    <string name="dom_button">DOM</string>
+    <string name="data_type_button">Data Types</string>
+    <string name="OOP_button">OOP Terminology</string>
+    <string name="JavaFX_button">JavaFX Quick Reference</string>
+    <string name="java_button">Java Quick Reference</string>
+    <string name="php_button">PHP Quick Reference</string>
+    <string name="db_button">PHP DB Sample Code</string>
+    <string name="queries_button">PHP Common Queries</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
